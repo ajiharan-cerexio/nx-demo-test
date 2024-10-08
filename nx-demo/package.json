@@ -1,0 +1,26 @@
+{
+  "name": "nx-demo",
+  "version": "0.0.0-watch+1728364797293",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "primeflex": "^3.3.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "module": "fesm2022/nx-demo.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/nx-demo.mjs",
+      "esm": "./esm2022/nx-demo.mjs",
+      "default": "./fesm2022/nx-demo.mjs"
+    }
+  }
+}

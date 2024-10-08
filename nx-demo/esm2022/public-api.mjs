@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of nx-demo
+ */
+export * from './nx-button/public-api';
+export * from './nx-alert/public-api';
+export * from './services/public-api';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL254LWRlbW8vc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHdCQUF3QixDQUFDO0FBQ3ZDLGNBQWMsdUJBQXVCLENBQUM7QUFDdEMsY0FBYyx1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBueC1kZW1vXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9ueC1idXR0b24vcHVibGljLWFwaSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbngtYWxlcnQvcHVibGljLWFwaSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vc2VydmljZXMvcHVibGljLWFwaSc7XHJcbiJdfQ==

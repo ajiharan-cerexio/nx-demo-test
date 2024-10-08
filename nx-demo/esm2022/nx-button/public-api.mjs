@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of nx-demo
+ */
+export * from './nx-button.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL254LWRlbW8vc3JjL254LWJ1dHRvbi9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBueC1kZW1vXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9ueC1idXR0b24uY29tcG9uZW50JztcclxuIl19
